@@ -1,0 +1,30 @@
+{
+  "name": "generate-mongo",
+  "version": "1.0.0",
+  "description": "Generate mongoose schemas.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vsoft-lab/generate-mongo.git"
+  },
+  "keywords": [
+    "mongoose",
+    "generate",
+    "schema",
+    "schema",
+    "model",
+    "mongodb"
+  ],
+  "author": "NgaNguyenDuy at kyo1508@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vsoft-lab/generate-mongo/issues"
+  },
+  "homepage": "https://github.com/vsoft-lab/generate-mongo",
+  "dependencies": {
+    "mongoose": "^3.8.17"
+  }
+}
